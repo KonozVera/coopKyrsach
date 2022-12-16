@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kr_1_charp/1.0.0": {
+        "runtime": {
+          "Kr_1_charp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kr_1_charp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

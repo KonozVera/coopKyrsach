@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\bin\Debug\net6.0\Kr_1_charp.exe
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\bin\Debug\net6.0\Kr_1_charp.deps.json
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\bin\Debug\net6.0\Kr_1_charp.runtimeconfig.json
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\bin\Debug\net6.0\Kr_1_charp.dll
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\bin\Debug\net6.0\Kr_1_charp.pdb
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.dll
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\refint\Kr_1_charp.dll
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.pdb
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\Kr_1_charp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Kr_1_charp\Kr_1_charp\obj\Debug\net6.0\ref\Kr_1_charp.dll
